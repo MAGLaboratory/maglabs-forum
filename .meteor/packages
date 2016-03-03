@@ -38,3 +38,6 @@ telescope:update-prompt
 ############ Your Custom Packages ############
 
 # custom
+standard-minifiers
+accounts-oauth
+accounts-google
